@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-14,
+				-391
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skinneridle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-384
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "skinnerleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-397
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "skinnerdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-376
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "skinnerup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-386
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "skinnerright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "skinnermiss"
+		},
+		{
+			"offsets": [
+				-14,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "skinnermiss"
+		},
+		{
+			"offsets": [
+				-14,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "skinnermiss"
+		},
+		{
+			"offsets": [
+				-14,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "skinnermiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skinner",
+	"position": [
+		-70,
+		-40
+	],
+	"healthicon": "skinner",
+	"flip_x": true,
+	"healthbar_colors": [
+		253,
+		253,
+		253
+	],
+	"camera_position": [
+		300,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

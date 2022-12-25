@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chalmersidle"
+		},
+		{
+			"offsets": [
+				-116,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chalmersleft"
+		},
+		{
+			"offsets": [
+				-146,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chalmersdown"
+		},
+		{
+			"offsets": [
+				-180,
+				-403
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chalmersup"
+		},
+		{
+			"offsets": [
+				-168,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chalmersright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chalmers",
+	"position": [
+		10,
+		-70
+	],
+	"healthicon": "chalmers",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		152,
+		106
+	],
+	"camera_position": [
+		150,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}
