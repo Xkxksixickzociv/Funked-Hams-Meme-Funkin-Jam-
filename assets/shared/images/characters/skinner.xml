@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skinner.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skinnerdown0000" x="15" y="15" width="488" height="340" frameX="0" frameY="-7" frameWidth="488" frameHeight="347"/>
+	<SubTexture name="skinnerdown0001" x="15" y="15" width="488" height="340" frameX="0" frameY="-7" frameWidth="488" frameHeight="347"/>
+	<SubTexture name="skinnerdown0002" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0003" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0004" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0005" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0006" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0007" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0008" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0009" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0010" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0011" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0012" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0013" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinnerdown0014" x="503" y="15" width="488" height="347"/>
+	<SubTexture name="skinneridle0000" x="991" y="15" width="488" height="343" frameX="0" frameY="-7" frameWidth="488" frameHeight="350"/>
+	<SubTexture name="skinneridle0001" x="991" y="15" width="488" height="343" frameX="0" frameY="-7" frameWidth="488" frameHeight="350"/>
+	<SubTexture name="skinneridle0002" x="1479" y="15" width="488" height="345" frameX="0" frameY="-5" frameWidth="488" frameHeight="350"/>
+	<SubTexture name="skinneridle0003" x="1479" y="15" width="488" height="345" frameX="0" frameY="-5" frameWidth="488" frameHeight="350"/>
+	<SubTexture name="skinneridle0004" x="15" y="362" width="488" height="349" frameX="0" frameY="-1" frameWidth="488" frameHeight="350"/>
+	<SubTexture name="skinneridle0005" x="15" y="362" width="488" height="349" frameX="0" frameY="-1" frameWidth="488" frameHeight="350"/>
+	<SubTexture name="skinneridle0006" x="503" y="362" width="488" height="350"/>
+	<SubTexture name="skinneridle0007" x="503" y="362" width="488" height="350"/>
+	<SubTexture name="skinneridle0008" x="991" y="362" width="488" height="350"/>
+	<SubTexture name="skinneridle0009" x="991" y="362" width="488" height="350"/>
+	<SubTexture name="skinneridle0010" x="1479" y="362" width="488" height="350"/>
+	<SubTexture name="skinneridle0011" x="1479" y="362" width="488" height="350"/>
+	<SubTexture name="skinneridle0012" x="1479" y="362" width="488" height="350"/>
+	<SubTexture name="skinneridle0013" x="1479" y="362" width="488" height="350"/>
+	<SubTexture name="skinneridle0014" x="1479" y="362" width="488" height="350"/>
+	<SubTexture name="skinnerleft0000" x="15" y="712" width="488" height="354"/>
+	<SubTexture name="skinnerleft0001" x="15" y="712" width="488" height="354"/>
+	<SubTexture name="skinnerleft0002" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0003" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0004" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0005" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0006" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0007" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0008" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0009" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0010" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0011" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0012" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0013" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnerleft0014" x="503" y="712" width="488" height="351" frameX="0" frameY="-3" frameWidth="488" frameHeight="354"/>
+	<SubTexture name="skinnermiss0000" x="991" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0001" x="991" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0002" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0003" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0004" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0005" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0006" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0007" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0008" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0009" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0010" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0011" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0012" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0013" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnermiss0014" x="1479" y="712" width="488" height="378"/>
+	<SubTexture name="skinnerright0000" x="15" y="1090" width="488" height="349" frameX="0" frameY="-4" frameWidth="488" frameHeight="353"/>
+	<SubTexture name="skinnerright0001" x="15" y="1090" width="488" height="349" frameX="0" frameY="-4" frameWidth="488" frameHeight="353"/>
+	<SubTexture name="skinnerright0002" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0003" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0004" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0005" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0006" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0007" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0008" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0009" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0010" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0011" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0012" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0013" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerright0014" x="503" y="1090" width="488" height="353"/>
+	<SubTexture name="skinnerup0000" x="991" y="1090" width="488" height="358"/>
+	<SubTexture name="skinnerup0001" x="991" y="1090" width="488" height="358"/>
+	<SubTexture name="skinnerup0002" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0003" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0004" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0005" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0006" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0007" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0008" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0009" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0010" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0011" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0012" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0013" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+	<SubTexture name="skinnerup0014" x="1479" y="1090" width="488" height="352" frameX="0" frameY="-6" frameWidth="488" frameHeight="358"/>
+</TextureAtlas>
