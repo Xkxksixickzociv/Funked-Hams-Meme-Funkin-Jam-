@@ -1,0 +1,32 @@
+{
+	"storyName": "I hope you're prepared for an unforgettable rap battle!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "hams",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Luncheon",
+			"chalmers",
+			[
+				206,
+				113,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week Ham"
+}
